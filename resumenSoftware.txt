@@ -1,0 +1,5 @@
+Ejemplos de Software:
+
+1. Office 365
+2. Virtual box
+3. Visual Studio Code

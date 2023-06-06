@@ -1,0 +1,22 @@
+COMANDOS USADOS:
+
+git init
+
+touch comandos.txt main.js index.html
+git commit -m "commit 01 de Anyela Ruiz"
+git remote add origin https://github.com/Anyelanenegarruncha/20230605-AnyelaRuiz.git
+git push origin master
+git branch feature
+git checkout feature
+mkdir Hardware Software SeguridadInformatica
+touch resumen.txt
+ls -R
+git add .
+git status
+git commit -m "commit 02 de Anyela Ruiz"
+git push origin feature
+git checkout master
+mv main.js resumenHardware.txt
+mv index.html resumenSoftware.txt
+
+ git --help
